@@ -12,6 +12,8 @@ const progressText = document.getElementById("progress-text");
 const progress = document.getElementById("progress");
 const scoreText = document.getElementById("score-text");
 
+
+
 let currentQuestionIndex = 0;
 let correctAnswers = 0;
 let wrongAnswers = 0;
